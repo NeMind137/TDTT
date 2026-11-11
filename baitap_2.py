@@ -92,7 +92,7 @@ else:
 a,b=map(float,input().split())
 if a==0 and b==0:
         print("Vo so nghiem")
-else if b==0:
+elif b==0:
         print("Vo nghiem")
 else:
     print(f"{-b/a:.2f}")
