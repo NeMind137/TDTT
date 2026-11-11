@@ -95,5 +95,4 @@ if a==0 and b==0:
 else if b==0:
         print("Vo nghiem")
 else:
-    x=-b/a
-    print(f"{x:.2f}")
+    print(f"{-b/a:.2f}")
