@@ -1,3 +1,4 @@
+# Bai tap tuan 4
 # Bai1
 n=int(input())
 sum=0
