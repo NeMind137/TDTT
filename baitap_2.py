@@ -1,4 +1,3 @@
-#Bai tap tuan 3
 #BAI 1
 n=int(input())
 if 100<=n<=999:
