@@ -153,6 +153,6 @@ def is_right_triangle(a,b,c):
   if(a+b<=c or a+c<=b or b+c<=a):return False
   x=sorted([a,b,c])
   return x[0]**2+x[1]**2==x[2]**2
-
+#
 a,b,c=map(int,input().split())
 print(is_right_triangle(a,b,c))
